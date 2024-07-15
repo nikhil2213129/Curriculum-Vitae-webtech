@@ -1,4 +1,4 @@
-## My Awesome Online CV! 
+## Curriculum Vitae using Web Technologies 
 
 This repository holds the source code for my personal website that acts as my online Curriculum Vitae (CV). It's built with various web technologies to showcase my skills and experiences in an interactive and responsive format.
 
